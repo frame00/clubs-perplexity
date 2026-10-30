@@ -1,0 +1,8 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "clubs",
+  "version": "1.0.0",
+  "description": "CLUBS keeps your team's decisions by project. Say \"save this to CLUBS\" after working with AI, and pick up where you left off — another day, or with another AI.",
+  "homepage": "https://clubs.place",
+  "repository": "https://github.com/frame00/clubs-perplexity"
+}
